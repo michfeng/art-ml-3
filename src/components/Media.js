@@ -27,7 +27,7 @@ export const Media = ({
             </div>
             <div class="col-4">
                 <AudioPlayer src={sound} />
-                <text style={{  'font-family': 'Benne', 'text-align': 'left' }}>{prompt}</text>
+                <text style={{  'font-family': 'Benne', 'text-align': 'left' }}>{"Generated from: " + prompt}</text>
             </div>
         </div>
     )
