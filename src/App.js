@@ -18,19 +18,19 @@ function App() {
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"></link>
         <NavBar />
           <Routes>
-              <Route exact path="/art-ml-3" element={<Nostalgia />} />
-              <Route path="/art-ml-3/#/nostalgia" element={<Nostalgia />} />
+              <Route path="/" element={<HomePage />} />
+              <Route path="/nostalgia" element={<Nostalgia />} />
               <Route
-                  path="/art-ml-3/#/joy-of-nature"
+                  path="/joy-of-nature"
                   element={<Nature />}
               />
-              <Route path="/art-ml-3/#/whimsical" element={<Whimsical />} />
+              <Route path="/whimsical" element={<Whimsical />} />
               <Route
-                  path="/art-ml-3/#/impermanence"
+                  path="/impermanence"
                   element={<Impermanence />}
               />
               <Route
-                  path="/art-ml-3/#/wild-and-feral"
+                  path="/wild-and-feral"
                   element={<Feral />}
               />
           </Routes>
