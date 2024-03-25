@@ -1,7 +1,6 @@
-import { Page } from "../components/Page"
 function Whimsical () {
     return (
-        <Page/>
+        <div/>
     )
 }
 export default Whimsical;

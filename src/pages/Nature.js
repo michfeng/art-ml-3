@@ -1,7 +1,6 @@
-import { Page } from "../components/Page"
 function Nature () {
     return (
-        <Page/>
+        <div/>
     )
 }
 
