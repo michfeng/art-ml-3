@@ -6,7 +6,7 @@
     color: white;
     
     /* Padding */
-    padding: 10px 20px;
+    padding: 10px 50px;
     
     /* Border */
     border: none;
@@ -21,6 +21,8 @@
     transition: background-color 0.3s ease;
 
     font-family: 'Benne';
+
+    margin-bottom: 50px;
   }
   
 .custom-button:hover {

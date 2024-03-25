@@ -18,6 +18,8 @@ export const Media = ({
         </div>
     )*/
 
+    if (prompt)
+
     return (
         <div class="row" style={{paddingBottom: '150px'}}>
             <div class="col-8">
@@ -25,7 +27,7 @@ export const Media = ({
                 <div className="caption" style={{ 'padding-top': '35px'}}>{caption}</div>
             </div>
             <div class="col-4">
-                <AudioPlayer src={sound} style={{'padding-bottom': '1000px'}} />
+                <AudioPlayer src={sound} />
                 <text style={{  'font-family': 'Benne', 'text-align': 'left' }}>{prompt}</text>
             </div>
         </div>
