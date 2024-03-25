@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { useState } from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
+import image from "../images/main-image.png"
 
 
 export const NavBar = () => {
@@ -25,14 +26,12 @@ export const NavBar = () => {
         setActiveLink(value);
       }
 
-      /*  If we want title     
-       <Navbar.Brand href="/" className={activeLink == 'home' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('home')}>
-            Museum
-        </Navbar.Brand> */
-
     return (
         <Navbar expand="md" className={scrolled ? "scrolled": ""}>
             <Container>
+                <Navbar.Brand href="/art-ml-3" className={activeLink == '/art-ml-3' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('home')}>
+                    <img src={image} alt="logo" style={{"width":"50px"}}/>
+                </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav">
                     <span className="navbar-toggler-icon"></span>
                 </Navbar.Toggle>
