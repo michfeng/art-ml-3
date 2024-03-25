@@ -1,20 +1,43 @@
 {
   "files": {
-    "main.css": "/art-ml-3/static/css/main.d8c69660.css",
-    "main.js": "/art-ml-3/static/js/main.f4673929.js",
-    "static/media/17131.jpg": "/art-ml-3/static/media/17131.057400c10c956fecc622.jpg",
+    "main.css": "/art-ml-3/static/css/main.654e22d0.css",
+    "main.js": "/art-ml-3/static/js/main.9a1a4060.js",
+    "static/media/nature-cluster3.gif": "/art-ml-3/static/media/nature-cluster3.74461b3f2dbc217ab79d.gif",
+    "static/media/imperm-cluster0.gif": "/art-ml-3/static/media/imperm-cluster0.99a29ad20bdba7e73531.gif",
+    "static/media/nature-cluster1.gif": "/art-ml-3/static/media/nature-cluster1.f7b30e44eb1bd3cb14a5.gif",
+    "static/media/wild-cluster2 2.gif": "/art-ml-3/static/media/wild-cluster2 2.2acff2e23765abaf41d3.gif",
+    "static/media/whimsical-cluster2.gif": "/art-ml-3/static/media/whimsical-cluster2.d27beb887c9b65b2f660.gif",
     "static/media/wild1.gif": "/art-ml-3/static/media/wild1.6ad4e69cc4edc6eb31f9.gif",
+    "static/media/nature2.jpg": "/art-ml-3/static/media/nature2.5a32b53874d254f50112.jpg",
+    "static/media/nature3.jpg": "/art-ml-3/static/media/nature3.b0ebd14346a2570d44f0.jpg",
+    "static/media/candyland.mp3": "/art-ml-3/static/media/candyland.df75a7f720f3631d5e97.mp3",
     "static/media/main-image.png": "/art-ml-3/static/media/main-image.0118920483156b0e7a5a.png",
+    "static/media/whimsical-cluster1.jpeg": "/art-ml-3/static/media/whimsical-cluster1.5b4a85f035a27945b408.jpeg",
+    "static/media/whimsical-cluster0.jpeg": "/art-ml-3/static/media/whimsical-cluster0.6c14b885077250c60371.jpeg",
+    "static/media/fiery-hot.jpg": "/art-ml-3/static/media/fiery-hot.6879603b99ee47bb93a2.jpg",
     "static/media/concert-description.mp3": "/art-ml-3/static/media/concert-description.fbb65a299690752c0917.mp3",
     "static/media/concert.jpeg": "/art-ml-3/static/media/concert.6ef4a6a1eda3bd705d7b.jpeg",
+    "static/media/fairy.mp3": "/art-ml-3/static/media/fairy.367fef06f8cdc7d43239.mp3",
+    "static/media/seattle.mp3": "/art-ml-3/static/media/seattle.168dc42af93328268396.mp3",
+    "static/media/imperm-cluster1.jpeg": "/art-ml-3/static/media/imperm-cluster1.aa7f79a9b9e324ef025d.jpeg",
     "static/media/feral-sculpture-1.mp3": "/art-ml-3/static/media/feral-sculpture-1.150d2080bcfdbb3fd255.mp3",
+    "static/media/fiery-hot-description.mp3": "/art-ml-3/static/media/fiery-hot-description.e801e5204484108c24bf.mp3",
+    "static/media/somber.jpeg": "/art-ml-3/static/media/somber.e2a75fd7a64f67edb193.jpeg",
+    "static/media/molecules.mp3": "/art-ml-3/static/media/molecules.5a94e33169b22fe2dbb4.mp3",
+    "static/media/fallcanou.mp3": "/art-ml-3/static/media/fallcanou.0ec1244aff9d2d10c0fb.mp3",
+    "static/media/tents-description.mp3": "/art-ml-3/static/media/tents-description.d8464f9389320355da48.mp3",
+    "static/media/somber.mp3": "/art-ml-3/static/media/somber.e6c9d2ac16d160776e0f.mp3",
+    "static/media/pool.mp3": "/art-ml-3/static/media/pool.d9c30fd731fc11aa3f94.mp3",
+    "static/media/globe.mp3": "/art-ml-3/static/media/globe.2d9258b7d71dfea93437.mp3",
+    "static/media/peak.mp3": "/art-ml-3/static/media/peak.f342ed65d1854a43e326.mp3",
+    "static/media/whimsical-girl.mp3": "/art-ml-3/static/media/whimsical-girl.6672953279bb0bdac77e.mp3",
     "static/media/logo.svg": "/art-ml-3/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/art-ml-3/index.html",
-    "main.d8c69660.css.map": "/art-ml-3/static/css/main.d8c69660.css.map",
-    "main.f4673929.js.map": "/art-ml-3/static/js/main.f4673929.js.map"
+    "main.654e22d0.css.map": "/art-ml-3/static/css/main.654e22d0.css.map",
+    "main.9a1a4060.js.map": "/art-ml-3/static/js/main.9a1a4060.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8c69660.css",
-    "static/js/main.f4673929.js"
+    "static/css/main.654e22d0.css",
+    "static/js/main.9a1a4060.js"
   ]
 }
