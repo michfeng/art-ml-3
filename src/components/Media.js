@@ -18,7 +18,6 @@ export const Media = ({
         </div>
     )*/
 
-    if (prompt)
 
     return (
         <div class="row" style={{paddingBottom: '150px'}}>
