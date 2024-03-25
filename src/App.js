@@ -5,6 +5,7 @@ import {
   Routes,
   Route,
 } from "react-router-dom";
+import HomePage from './pages/HomePage';
 import Nostalgia from "./pages/Nostalgia";
 import Whimsical from "./pages/Whimsical";
 import Nature from './pages/Nature';
