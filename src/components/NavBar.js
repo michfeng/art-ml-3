@@ -38,11 +38,11 @@ export const NavBar = () => {
                 </Navbar.Toggle>
                 <Navbar.Collapse className="nav">
                     <Nav className="ms-auto" id="navbarTarget">
-                        <Nav.Link href="Nostalgia" className={activeLink == 'nostalgia' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('nostalgia')}>Nostalgia</Nav.Link>
-                        <Nav.Link href="JoyOfNature" className={activeLink == 'nature' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('nature')}>Nature</Nav.Link>
-                        <Nav.Link href="Whimsical" className={activeLink == 'whimsical' ? 'active navbar-link' : 'navbar-link'}  onClick={() => onUpdateActiveLink('whimsical')}>Whimsical</Nav.Link>
-                        <Nav.Link href="Impermanence" className={activeLink == 'impermanence' ? 'active navbar-link' : 'navbar-link'}  onClick={() => onUpdateActiveLink('impermanence')}>Impermanence</Nav.Link>
-                        <Nav.Link href="WildandFeral" className={activeLink == 'feral' ? 'active navbar-link' : 'navbar-link'}  onClick={() => onUpdateActiveLink('feral')}>Feral</Nav.Link>
+                        <Nav.Link href="nostalgia" className={activeLink == 'nostalgia' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('nostalgia')}>Nostalgia</Nav.Link>
+                        <Nav.Link href="joy-of-nature" className={activeLink == 'nature' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('nature')}>Nature</Nav.Link>
+                        <Nav.Link href="whimsical" className={activeLink == 'whimsical' ? 'active navbar-link' : 'navbar-link'}  onClick={() => onUpdateActiveLink('whimsical')}>Whimsical</Nav.Link>
+                        <Nav.Link href="impermanence" className={activeLink == 'impermanence' ? 'active navbar-link' : 'navbar-link'}  onClick={() => onUpdateActiveLink('impermanence')}>Impermanence</Nav.Link>
+                        <Nav.Link href="wild-and-feral" className={activeLink == 'feral' ? 'active navbar-link' : 'navbar-link'}  onClick={() => onUpdateActiveLink('feral')}>Feral</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>
