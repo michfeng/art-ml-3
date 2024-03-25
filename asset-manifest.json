@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/art-ml-3/static/css/main.474f252f.css",
-    "main.js": "/art-ml-3/static/js/main.a7ec3f46.js",
+    "main.css": "/art-ml-3/static/css/main.d8c69660.css",
+    "main.js": "/art-ml-3/static/js/main.2f3fe465.js",
     "static/media/17131.jpg": "/art-ml-3/static/media/17131.057400c10c956fecc622.jpg",
+    "static/media/wild1.gif": "/art-ml-3/static/media/wild1.6ad4e69cc4edc6eb31f9.gif",
+    "static/media/main-image.png": "/art-ml-3/static/media/main-image.0118920483156b0e7a5a.png",
+    "static/media/concert-description.mp3": "/art-ml-3/static/media/concert-description.fbb65a299690752c0917.mp3",
+    "static/media/concert.jpeg": "/art-ml-3/static/media/concert.6ef4a6a1eda3bd705d7b.jpeg",
+    "static/media/feral-sculpture-1.mp3": "/art-ml-3/static/media/feral-sculpture-1.150d2080bcfdbb3fd255.mp3",
     "static/media/logo.svg": "/art-ml-3/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/art-ml-3/index.html",
-    "main.474f252f.css.map": "/art-ml-3/static/css/main.474f252f.css.map",
-    "main.a7ec3f46.js.map": "/art-ml-3/static/js/main.a7ec3f46.js.map"
+    "main.d8c69660.css.map": "/art-ml-3/static/css/main.d8c69660.css.map",
+    "main.2f3fe465.js.map": "/art-ml-3/static/js/main.2f3fe465.js.map"
   },
   "entrypoints": [
-    "static/css/main.474f252f.css",
-    "static/js/main.a7ec3f46.js"
+    "static/css/main.d8c69660.css",
+    "static/js/main.2f3fe465.js"
   ]
 }
