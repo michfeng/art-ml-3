@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import { NavBar } from './components/NavBar';
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Routes,
   Route,
 } from "react-router-dom";
@@ -19,19 +19,19 @@ function App() {
         <Router>
           <NavBar />
             <Routes>
-                <Route exact path="/" element={<Nostalgia />} />
-                <Route path="/nostalgia" element={<Nostalgia />} />
+                <Route exact path="/art-ml-3" element={<Nostalgia />} />
+                <Route path="/art-ml-3/nostalgia" element={<Nostalgia />} />
                 <Route
-                    path="/joy-of-nature"
+                    path="/art-ml-3/joy-of-nature"
                     element={<Nature />}
                 />
-                <Route path="/whimsical" element={<Whimsical />} />
+                <Route path="/art-ml-3/whimsical" element={<Whimsical />} />
                 <Route
-                    path="/impermanence"
+                    path="/art-ml-3/impermanence"
                     element={<Impermanence />}
                 />
                 <Route
-                    path="/wild-and-feral"
+                    path="/art-ml-3/wild-and-feral"
                     element={<Feral />}
                 />
             </Routes>
