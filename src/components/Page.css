@@ -10,12 +10,13 @@
 .image {
     max-width: 50%; /* Adjust as needed */
     height: auto; /* Maintain aspect ratio */
+    /*border-radius: 50%;*/
 }
 
 .caption {
     flex: 1; /* Take remaining space */
-    margin-left: 20px; /* Adjust spacing */
+    /*margin-left: 20px; /* Adjust spacing */
     font-family: 'Benne';
     font-style: italic;
-    font-size: 32px;
+    font-size: 24px;
 }
